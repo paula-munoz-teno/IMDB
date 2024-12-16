@@ -1,0 +1,132 @@
+{
+  "arrayMovie": [
+    {
+      "title": "Avengers: Endgame",
+      "releaseYear": 2019,
+      "actors": [
+        {
+          "name": "Robert Downey Jr.",
+          "age": 56,
+          "weight": 75,
+          "height": 174,
+          "isRetired": false,
+          "nationality": "American",
+          "oscarsNumber": 2,
+          "profession": "Actor"
+        },
+        {
+          "name": "Chris Evans",
+          "age": 42,
+          "weight": 83,
+          "height": 183,
+          "isRetired": false,
+          "nationality": "American",
+          "oscarsNumber": 0,
+          "profession": "Actor"
+        },
+        {
+          "name": "Scarlett Johansson",
+          "age": 38,
+          "weight": 57,
+          "height": 160,
+          "isRetired": false,
+          "nationality": "American",
+          "oscarsNumber": 1,
+          "profession": "Actress"
+        }
+      ],
+      "nacionality": "American",
+      "director": {
+        "name": "Anthony Russo",
+        "age": 51,
+        "weight": 80,
+        "height": 180,
+        "isRetired": false,
+        "nationality": "American",
+        "oscarsNumber": 2,
+        "profession": "Director"
+      },
+      "writer": {
+        "name": "Christopher Markus",
+        "age": 54,
+        "weight": 75,
+        "height": 175,
+        "isRetired": false,
+        "nationality": "American",
+        "oscarsNumber": 0,
+        "profession": "Screenwriter"
+      },
+      "language": "English",
+      "plataforma": "Disney+",
+      "isMCU": true,
+      "mainCharacterName": "Tony Stark",
+      "producer": "Kevin Feige",
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "genre": "Action, Adventure, Sci-Fi"
+    },
+    {
+      "title": "Inception",
+      "releaseYear": 2010,
+      "actors": [
+        {
+          "name": "Leonardo DiCaprio",
+          "age": 48,
+          "weight": 75,
+          "height": 183,
+          "isRetired": false,
+          "nationality": "American",
+          "oscarsNumber": 1,
+          "profession": "Actor"
+        },
+        {
+          "name": "Joseph Gordon-Levitt",
+          "age": 42,
+          "weight": 70,
+          "height": 180,
+          "isRetired": false,
+          "nationality": "American",
+          "oscarsNumber": 0,
+          "profession": "Actor"
+        },
+        {
+          "name": "Elliot Page",
+          "age": 36,
+          "weight": 68,
+          "height": 165,
+          "isRetired": false,
+          "nationality": "Canadian",
+          "oscarsNumber": 0,
+          "profession": "Actor"
+        }
+      ],
+      "nacionality": "American",
+      "director": {
+        "name": "Christopher Nolan",
+        "age": 53,
+        "weight": 85,
+        "height": 183,
+        "isRetired": false,
+        "nationality": "British",
+        "oscarsNumber": 1,
+        "profession": "Director"
+      },
+      "writer": {
+        "name": "Christopher Nolan",
+        "age": 53,
+        "weight": 85,
+        "height": 183,
+        "isRetired": false,
+        "nationality": "British",
+        "oscarsNumber": 1,
+        "profession": "Director"
+      },
+      "language": "English",
+      "plataforma": "Netflix",
+      "isMCU": false,
+      "mainCharacterName": "Dom Cobb",
+      "producer": "Emma Thomas, Christopher Nolan",
+      "distributor": "Warner Bros.",
+      "genre": "Action, Sci-Fi, Thriller"
+    }
+  ]
+}
